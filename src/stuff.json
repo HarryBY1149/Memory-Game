@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"bear",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/e0e36d11093271.5603103d058cc.jpg"
+    },
+    {  
+        "id":2,
+        "name":"deer",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/9c4d4311093273.560310e1979bd.jpg"
+    },
+    {
+        "id":3,
+        "name":"elephant",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/78831511093277.560310aba0608.jpg"
+    },
+    {
+        "id":4,
+        "name":"zebra",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/e6b91830385507.560578ebb5e0c.jpg"
+    },
+    {
+        "id":5,
+        "name":"lemur",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/e0968511093283.5603103da8ad2.jpg"
+    },
+    {
+        "id": 6,
+        "name":"giraffe",
+        "photo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/f9d52a11093285.5603112203c77.jpg"
+    },
+    {
+        "id": 7,
+        "name":"lion",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/1bd12111093293.560310e246668.jpg"
+    },
+    {
+        "id": 8,
+        "name": "gorilla",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/1d01c711093289.560310e0caf9c.jpg"
+    },
+    {
+        "id": 9,
+        "name": "polar bear",
+        "photo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/1c782111093291.560310de92b1c.jpg"
+    },
+    {
+        "id": 10,
+        "name": "tiger",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/22e2ae11093295.560310dec9703.jpg"
+    },
+    {
+        "id": 11,
+        "name": "wolf",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/e57f3311093297.56030f3acb471.jpg"
+    },
+    {
+        "id": 12,
+        "name": "monkey",
+        "photo":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/ca69f611093275.56030f39e5cb1.jpg"
+    }
+]
