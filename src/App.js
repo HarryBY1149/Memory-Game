@@ -54,11 +54,11 @@ class App extends React.Component {
       localClicked.push(id);
       if(localScore > localTopScore){
         localTopScore = localScore;
-        if (localScore === 12){
-          alert("Congratulations! You clicked all the animals.");
-          localScore = 0;
-          localClicked = [];
-        }
+      }
+      if (localScore === 12){
+        alert("Congratulations! You clicked all the animals.");
+        localScore = 0;
+        localClicked = [];
       }
     };
     this.setState({ clicked: localClicked });
